@@ -16,7 +16,7 @@ openai_org = os.getenv('OPENAI_API_ORG')
 openai_api_key1 = os.getenv('OPENAI_API_KEY1')
 
 # load docs
-directory = 'C:/tech/method.ai/smartwayswork.ai/content/smartwayswork'
+directory = './content'
 def load_docs(directory):
     loader = DirectoryLoader(directory,loader_cls=TextLoader)
     documents = loader.load()
@@ -39,7 +39,7 @@ from langchain.vectorstores import Chroma
 #db = Chroma.from_documents(docs, embeddings)
 
 # Specify the directory where the Chroma database should be persisted.
-persist_directory = "C:/tech/method.ai/smartwayswork.ai/db"
+persist_directory = "./db"
 
 try:
     db = Chroma.from_documents(docs, embeddings, persist_directory=persist_directory)
