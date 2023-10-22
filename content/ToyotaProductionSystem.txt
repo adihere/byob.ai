@@ -1,0 +1,47 @@
+
+A production system based on the philosophy of achieving the complete elimination of all waste in pursuit of the most efficient methods.
+
+Toyota Motor Corporation's vehicle production system is a way of making things that is sometimes referred to as a "lean manufacturing system," or a "Just-in-Time (JIT) system," and has come to be well known and studied worldwide.
+
+This production control system was established based on many years of continuous improvements, with the objective of making the vehicles ordered by customers in the quickest and most efficient way, in order to deliver the vehicles as swiftly as possible. The Toyota Production System (TPS) was established based on two concepts: "jidoka" (which can be loosely translated as "automation with a human touch"), as when a problem occurs, the equipment stops immediately, preventing defective products from being produced; and the "Just-in-Time" concept, in which each process produces only what is needed for the next process in a continuous flow.
+
+Based on the basic philosophies of jidoka and Just-in-Time, TPS can efficiently and quickly produce vehicles of sound quality, one at a time, that fully satisfy customer requirements.
+
+TPS and its approach to cost reduction are the wellsprings of competitive strength and unique advantages for Toyota. Thoroughly honing these strengths is essential for Toyota's future survival. We will use these initiatives and develop our human resources to make ever-better cars that will be cherished by customers.
+The TPS concept
+
+For Toyota, jidoka means that a machine must come to a safe stop whenever an abnormality occurs. Achieving jidoka, therefore, requires building and improving systems by hand until they are reliable and safe. First, human engineers meticulously build each new line component by hand to exacting standards, then, through incremental kaizen (continuous improvement), steadily simplify its operations.
+
+Eventually, the value added by the line's human operators disappears, meaning any operator can use the line to produce the same result. Only then is the jidoka mechanism incorporated into actual production lines. Through the repetition of this process, machinery becomes simpler and less expensive, while maintenance becomes less time consuming and less costly, enabling the creation of simple, slim, flexible lines that are adaptable to fluctuations in production volume.
+
+The work done by hand in this process is the bedrock of engineering skill. Machines and robots do not think for themselves or evolve on their own. Rather, they evolve as we transfer our skills and craftsmanship to them. In other words, craftsmanship is achieved by learning the basic principles of manufacturing through manual work, then applying them on the factory floor to steadily make improvements. This cycle of improvement in both human skills and technologies is the essence of Toyota's jidoka. Advancing jidoka in this way helps to reinforce both our manufacturing competitiveness and human resource development.
+
+Human wisdom and ingenuity are indispensable to delivering ever-better cars to customers. Going forward, we will maintain our steadfast dedication to constantly developing human resources who can think independently and implement kaizen.
+
+Just-in-Time
+-Improving productivity-
+Making only "what is needed, when it is needed, and in the amount needed"
+
+Producing quality products efficiently through the complete elimination of waste, inconsistencies, and unreasonable requirements on the production line (known respectively in Japanese as muda, mura, muri).
+
+In order to fulfill an order from a customer as quickly as possible, the vehicle is efficiently built within the shortest possible period of time by adhering to the following:
+
+    When a vehicle order is received, production instructions must be issued to the beginning of the vehicle production line as soon as possible.
+    The assembly line must be stocked with the required number of all necessary parts so that any kind of ordered vehicle can be assembled.
+    The assembly line must replace the parts used by retrieving the same number of parts from the parts-producing process (the preceding process).
+    The preceding process must be stocked with small numbers of all types of parts and produce only the numbers of parts that were retrieved by an operator from the next process.
+
+Origin of the Toyota Production System A production system fine-tuned over generations
+Roots of the Toyota Production System
+
+The Toyota Production System (TPS), which is based on the philosophy of the complete elimination of all waste in pursuit of the most efficient methods, has roots tracing back to Sakichi Toyoda's automatic loom. TPS has evolved through many years of trial and error to improve efficiency based on the Just-in-Time concept developed by Kiichiro Toyoda, the founder (and second president) of Toyota Motor Corporation.
+
+Waste can manifest as excess inventory, extraneous processing steps, and defective products, among other instances. All these "waste" elements intertwine with each other to create more waste, eventually impacting the management of the corporation itself.
+
+The automatic loom invented by Sakichi Toyoda not only automated work that used to be performed manually, but also built the capability to make judgments into the machine itself. By eliminating both defective products and the associated wasteful practices, Sakichi succeeded in rapidly improving both productivity and work efficiency.
+
+Kiichiro Toyoda, who inherited this philosophy, set out to realize his belief that "the ideal conditions for making things are created when machines, facilities, and people work together to add value without generating any waste." He conceived methodologies and techniques for eliminating waste between operations, between both lines and processes. The result was the Just-in-Time method.
+
+Via the philosophies of "Daily Improvements" and "Good Thinking, Good Products, TPS has evolved into a world-renowned production system. Even today, all Toyota production divisions are making improvements to TPS day-and-night to ensure its continued evolution.
+
+The Toyota spirit of monozukuri (making things) is today referred to as the "Toyota Way." It has been adopted not only by companies in Japan and within the automotive industry, but in production activities worldwide, and continues to evolve globally.

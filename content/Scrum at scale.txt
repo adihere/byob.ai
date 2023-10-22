@@ -1,0 +1,90 @@
+
+What is Scrum@Scale?
+
+Scrum@Scale was developed out of a joint-venture between Scrum Inc. and the Scrum Alliance under the care of Dr. Jeff Sutherland, one of the co-creators of scrum and co-author of the Agile Manifesto.
+
+Scrum@Scale is a way of scaling scrum based on the fundamentals of scrum and complex adaptive systems theory. In Scrum@Scale, everyone is part of an interchangeable scrum team and, depending on the goals, networks of scrum teams come together to form an ecosystem. Scrum@Scale is designed to scale in large enterprises, with training and certification as an option.
+Scrum@Scale builds on the same value-driven culture as scrum:
+
+Openness, Courage, Focus, Respect, and Commitment.
+
+Sutherland's objective with Scrum@Scale is to achieve linear scalability through a scale-free architecture. This is combined with minimum viable bureaucracy (MVB) , an agile approach popularized by Mozilla and Spotify where minimal processes help maintain efficiency and consistency at scale, without hindering creativity.
+
+With this, Scrum@Scale avoids introducing extra complexity when additional teams are created since the typical hierarchical grouping of people is avoided. It uses the concept of scaling from a team, to a team of teams, to a network of teams, and further.
+
+As a result, the top priority of Scrum@Scale helps resolve key challenges that many organizations face:
+
+    Prioritizing effectively with limited resources
+    Delivering working software in a timebox with high quality
+    Refactoring possibilities of the software
+    Adapting to change both from an organizational or product standpoint
+
+What does Scrum@Scale contain?
+What are the core concepts of Scrum@Scale?
+
+Scrum@Scale is built on three core concepts:
+
+    Small teams
+    Scaling across the entire organization
+    Applying minimum viable bureaucracy
+
+Small teams are a core concept of scrum and are critical when scaling up to a team of teams. Teams should typically have between three to nine people, or the ,two-pizza rule, (based on the number of people two pizzas will feed).
+
+Functioning scrum teams are the foundation of Scrum@Scale as agile practices scale across the entire organization.
+
+Minimum viable bureaucracy, in this context, is defined by the time it takes to make decisions and execute. For smaller teams across the organization, this approach helps cut through the obstacles in an organization.
+Scrum@Scale components
+
+The components of Scrum@Scrum help organizations drive and individualize their transformation backlogs and approaches.
+
+The framework is illustrated in two cycles: the Scrum Master Cycle and the Product Owner Cycle. These cycles clearly distinguish the ,how, in the Scrum Master cycle from the ,what, in the Product Owner cycle, and highlight where they overlap.
+Scrum@Scale framework diagram
+
+A scaling structure is achieved by the utilization of the scrum of scrums concept where multiple teams deliver a fully integrated set of potentially shippable increments of products at the end of each sprint.
+
+Timeboxing and sprint boundaries are not softened at scale. They are key to achieving organizational agility. If your teams already struggle with achieving committed sprint goals, stop and fix these issues first before attempting to scale. If you need to get a pulse check on your teams' performance, the Jira Sprint Report can help you spot when slips occur.
+Scrum@Scale roles
+
+Since Scrum@Scale is based on scrum, the scrum roles of Product Owner and Scrum Master are used and have the same competencies defined in the Scrum Guide. With the team of teams concept, new roles are introduced:
+
+    The Chief Product Owner (CPO) works with the individual teams and Product Owners to align the backlog priories with all involved stakeholders and set the strategic vision of the scrum of scrums. The CPO is responsible for the generation of a single backlog for all within the scrum of scrums.
+    The Scrum of Scrums Master (SoSM) is responsible for the joint efforts to release and similar responsibilities as a Scrum Master, just at scale.
+
+Scrum@Scale events
+
+A key success factor in scrum are these simple but powerful scrum events:
+
+    The sprint
+    Sprint planning
+    Daily scrum
+    Sprint review
+    Retrospective
+
+When scaling scrum, teams continue scrum as usual, with only one additional event: the Scaled Daily Scrum, where a representative from each team must attend.
+
+The content is very similar to the daily scrum where 15 minutes should be spent each day on the impediments of the team to the sprint goal, the risks for other teams, dependencies between teams, ways to improve, and knowledge that can be shared by other teams.
+Scrum Master of the agile organization , Executive Action Team (EAT)
+
+When scaling scrum, organizational issues will multiply so that Scrum@Scale will need an Executive Action Team (EAT). This team is responsible for the transformation strategy and owns the implementation of scrum values, roles and support decision making, and impediment removal. A key prerequisite for the EAT is the authority of senior executions to change the organization.
+
+Here are the typical areas the EAT focuses on:
+
+    Ensure proper prioritization, rather than having everything marked as important
+    Ensure teams have the ability and environment to delivery every sprint
+    Ensure the organization improves continuously and organizational departments are removed
+
+Product Owner of the agile organization , Executive MetaScrum Team (EMT)
+
+The Executive MetaScrum Team (EMT) owns the organizational vision and sets strategic priorities for the organization. This team is responsible for changing the organizational direction or deciding which products or services need to be restructured or retired. It further aligns the enterprise around a roadmap and can be held at a regular or ad-hoc cadence.
+
+This team consists of the CPO and business owner with funding, personnel, and customer commitments. The EMT and the CPO work in close collaboration to address any required changes in strategy, funding, or resource allocations.
+
+If your organization has grown out of the team of teams structure, Scrum@Scale is the next step to scaling further. Using the same approach to scale scrum using Scrum of Scrums, you can scale Scrum of Scrums to Scrum of Scrum of Scrums (SoSoS).
+Conclusion
+
+Scrum@Scale allows an organization to grow organically, at its own pace, and efficiently coordinate an unlimited number of scrum teams through its use of a ,scale-free, architecture. The concepts behind the framework are well documented and also less prescriptive than other frameworks. This allows Scrum@Scale to be applicable across the organization when scrum is used proficiently at a team level.
+
+When implementing Scrum@Scale, it is vital to focus on good scrum practices before scaling and establish an EAT with the authority to make changes and remove obstacles. To determine how well your scrum team is doing, multiple assessments can be found online. We recommend starting with Jeff Sutherland's suggestions on team velocity, team happiness, and revenue points.
+Taking the next step
+
+Frameworks like Scrum@Scale provide a viable option for helping businesses effectively scale agile within their organizations and achieve desired business outcomes. But just as important are the tools you choose to help amplify existing practices and realize the full benefits of those practices. With Atlassian,s enterprise agile planning platform, Jira Align, you can improve visibility, strategic alignment, and enterprise adaptability in order to accelerate your digital transformation.

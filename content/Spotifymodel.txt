@@ -1,0 +1,94 @@
+
+What is the Spotify model?
+
+The Spotify model is a people-driven, autonomous approach for scaling agile that emphasizes the importance of culture and network. It has helped Spotify and other organizations increase innovation and productivity by focusing on autonomy, communication, accountability, and quality.
+
+The Spotify model isn't a framework, as Spotify coach Henrik Kniberg noted, since it represents Spotify's view on scaling from both a technical and cultural perspective. It's one example of organizing multiple teams in a product development organization and stresses the need for culture and networks.
+
+'the Spotify model focuses on how we structure an organization to enable agility.
+
+The Spotify model was first introduced to the world in 2012, when Henrik Kniberg and Anders Ivarsson published the whitepaper Scaling Agile @ Spotify, which introduced the radically simple way Spotify approached agility. Since then, the Spotify model generated a lot of buzz and became popular in the agile transformation space. Part of its appeal is that it focuses on organizing around work rather than following a specific set of practices. In traditional scaling frameworks, specific practices (e.g. daily standups) are how the framework is executed, whereas the Spotify model focuses on how businesses can structure an organization to enable agility.
+
+The Spotify model champions team autonomy, so that each team (or Squad) selects their framework (e.g. Scrum, Kanban, Scrumban, etc.). Squads are organized into Tribes and Guilds to help keep people aligned and cross-pollinate knowledge.
+
+Now, let's demystify some of these terms'
+Key elements of the Spotify model
+
+The Spotify model is centered around simplicity. When Spotify began organizing around their work, they identified a handful of important elements on how people and teams should be structured.
+Squads
+
+Similar to a scrum team, Squads are cross-functional, autonomous teams (typically 6-12 individuals) that focus on one feature area. Each Squad has a unique mission that guides the work they do, an agile coach for support, and a product owner for guidance. Squads determine which agile methodology/framework will be used.
+Tribes
+
+When multiple Squads coordinate within each other on the same feature area, they form a Tribe. Tribes help build alignment across Squads and typically consist of 40 - 150 people in order to maintain alignment (leveraging what we call Dunbar's Number). Each Tribe has a Tribe Lead who is responsible for helping coordinate across Squads and for encouraging collaboration.
+Chapter
+
+Even though Squads are autonomous, it's important that specialists (e.g. Javascript Developer, DBAs) align on best practices. Chapters are the family that each specialist has, helping to keep engineering standards in place across a discipline. Chapters are typically led by a senior technology lead, who may also be the manager for the team members in that Chapter.
+Guild
+
+Team members who are passionate about a topic can form a Guild, which essentially is a community of interest. Anyone can join a Guild and they are completely voluntary. Whereas Chapters belong to a Tribe, Guilds can cross different Tribes. There is no formal leader of a Guild. Rather, someone raises their hand to be the Guild Coordinator and help bring people together.
+Trio
+
+The Trio (aka TPD Trio) is a combination of a Tribe Lead, product lead, and design lead. Each Tribe has a Trio in place to ensure there is continuous alignment between these three perspectives when working on features areas.
+Alliance
+
+As organizations scale, sometimes multiple Tribes need to closely work together to accomplish a goal. Alliances are a combination of Tribe Trios (typically three or more) that work together to help their Tribes collaborate on a goal that is bigger than any one Tribe.
+Spotify model image
+
+That's it. There are not a lot of practices that need to be followed or ceremonies that need to happen. Squads may have ceremonies like sprint planning and retrospectives, but the focus of the Spotify model is on how teams organize around work. It's up to Squads to figure out the best way to get the job done.
+The benefits of the Spotify model
+
+When Spotify changed the way they scaled agile they wanted to enable Squads to move fast, ship software quickly, and do so all with minimum pain and overhead. They realized these benefits and more as they took their model and evolved it. The organizational benefits of implementing the Spotify model include:
+Less formal process and ceremony
+
+The Spotify model focuses on organizing around work and not necessarily processes and ceremonies. This gives an organization greater flexibility when it comes to how Squads work. Instead of requiring Squads to change how they do their work ('you must do scrum'), it focuses on aligning them with each other and driving towards individual team outcomes.
+More self-management and autonomy
+
+The Spotify model encourages autonomy and creativity by trusting people to complete the work they are doing in the way they see fit. Do you need to ship software? That's up to the Squad. Do you need to change direction? That's also up to the Squad. The Spotify model focuses on decentralizing decision making and transferring that responsibility to Squads, Tribes, Chapters, and Guilds.
+
+'Control leads to compliance; autonomy leads to engagement.'
+
+- Dan Pink, Author, 'Drive: The Surprising Truth About What Motivates Us'
+
+The Spotify model can offer increased transparency across the work being done and grow a more experimentation-based approach to problem solving in a high trust environment. All this can lead to things like better products, happier customers, and more engaged employees. However, not everyone will experience these outcomes.
+The challenges of the Spotify model
+
+The Spotify model was based on one organization's way of working. Many organizations desire the same benefits of the Spotify model, so they attempt to emulate what Spotify did. Some organizations experienced more success than others, but it's likely no organization experienced the same success as Spotify. The reason? Like any way of working, an organization's current culture and structure need to be taken into account. The model is simple, but the environment it's implemented in is complex.
+
+Wise executives tailor their approach to fit the complexity of the circumstances they face.
+
+ 
+
+- Dave Snowden, Management Consultant
+
+ 
+
+Unfortunately, many organizations try to copy the Spotify model. To some, it may seem like a simple matrix organizational structure where people report to a functional area (Chapter), but work with a cross-functional team (Squad). However, it's more complex than that. Although it may look like a matrix organization, the key cultural elements of the model need to be in place to allow the structure to thrive, such as trust and autonomy. If an organization doesn't shift its behaviors (and ultimately its culture), the benefits of the Spotify model will never be realized. If you simply rename teams to Squads, you're just putting lipstick on a pig.
+Spotify model best practices
+
+If you're looking to enable a culture of trust, autonomy, and rapid learning, you can't go wrong looking to the Spotify model for inspiration. If your organization is looking at the Spotify model as a means to help you approach agile at scale, the following is a list of best practices to keep in mind.
+Don't copy the model
+
+Seek to understand the structure, practices, and mindset behind Spotify's approach. With that understanding, tweak the aspects of the model to fit your own environment. Your goal is not to be Spotify, but to leverage their model to improve how your organization works together.
+Autonomy and trust is key
+
+Spotify gave as much autonomy as possible to their people in order to help them pivot quickly. Allowing teams to pick their own development tools and modify another team's code are just some examples. Within your organization, determine if there are decisions that can be pushed to the teams instead of being mandated by parts of the organization that are disconnected from the day-to-day work.
+Transparency with community
+
+Spotify's success is credited to their focus on building community and transparency around their work. Establish your first Guild around the Spotify model adoption and encourage participation from everyone in the organization. Build trust by creating transparent, inclusive ways to gather feedback, and gain alignment on how your organization wants to work in the future.
+Encourage mistakes
+
+You will fall down and stumble in this journey. But that's okay. Improvement involves experimenting and learning from both our successes and failures. Spotify went through many iterations before they attained the model we know today, and have since continued to experiment to constantly look for new ways to improve the way they work. Encourage the same within your organization!
+
+If you focus on these practices you'll see positive impacts on how your organization collaborates and aligns, whether or not you use the Spotify model as a guide.
+In conclusion'
+
+The Spotify model is a great source of inspiration if you're looking to build an organization focused on moving quickly with autonomy and purpose. Even more formal scaling frameworks, such as Scrum@Scale, have gained inspiration from the model (and vice versa). It's important to remember that the Spotify model is not a destination. Ironically enough, Spotify doesn't leverage the original implementation of the Spotify model anymore; they evolved and adapted the model to fit their changing organization. Trios and Alliances are actually newer elements in Spotify as they were brought about to solve new problems the organization faced as it grew larger. Starting with the key elements of the Spotify model can get you moving, but true agility comes with evolving the model to fit your context.
+Taking the next step
+
+Are you hungry to learn more about the Spotify model? Check the two-part video posted on Spotify Labs about the engineering culture at Spotify (Part I and Part II). You can also learn how the Spotify model compares with other scaling framework by visiting the agile at scale page on the Agile Coach.
+
+If you're looking to implement the Spotify model within your organization, it's important to have the feedback mechanisms and transparency in place to generate and sustain a culture of trust and autonomy. Leveraging Atlassian's Jira Align, organizations can organize Squads into Tribes, form Guilds and Chapters, and make product decisions transparent across the organization.
+
+
+Src: https://www.atlassian.com/agile/agile-at-scale/spotify

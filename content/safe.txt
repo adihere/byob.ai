@@ -1,0 +1,150 @@
+
+
+The Scaled Agile Framework (SAFe) is a set of organizational and workflow patterns for implementing agile practices at an enterprise scale. The framework is a body of knowledge that includes structured guidance on roles and responsibilities, how to plan and manage the work, and values to uphold.
+
+SAFe promotes alignment, collaboration, and delivery across large numbers of agile teams. It was formed around three primary bodies of knowledge: agile software development, lean product development, and systems thinking.
+
+As businesses grow in size, SAFe provides a structured approach for scaling agile. There are four configurations in SAFe to accommodate various levels of scale: Essential SAFe, Large Solution SAFe, Portfolio SAFe, and Full SAFe. 
+
+Dean Leffingwell and Drew Jemilo released SAFe in 2011 to help organizations design better systems and software that better meet customers changing needs. At that time, teams used traditional project management processes  to deliver software. But as the need to rapidly respond to changing market conditions increased, new frameworks emerged to help businesses improve solution delivery across their enterprises, and SAFe was born. Today, SAFe is one of the most popular scaled agile delivery frameworks, and SAFes worldwide community of practitioners continue to evolve it.
+Core principles and values
+Core Values
+
+SAFes core values describe the culture that leadership needs to foster and how people should behave within that culture  in order to effectively use the framework.
+Alignment
+
+SAFe requires that companies put planning and reflection cadences in place at all levels of the organization. With these in place, everyone understands the current state of the business, the goals, and how everyone should move together to achieve those goals. By synchronizing people and activities regularly, all levels of the portfolio stay in alignment. Information flows both upward and downward in a timely fashion, unlike traditional top-down, command and control structures.
+Built-in quality
+
+In the SAFe framework, agility should never come at the cost of quality. SAFe requires teams at all levels to define what done means for each task or project and to bake quality development practices into every working agreement. According to SAFe, there are five key dimensions of built-in quality: flow, architecture and design quality, code quality, system quality, and release quality.
+Transparency
+
+SAFe encourages trust-building behavior, including planning work in smaller batch sizes so problems can be surfaced sooner, providing real-time visibility into backlog progress across levels, and inspect and adapt rituals.
+Program execution
+
+Program execution is the heart of SAFe and powers everything else in the framework. Teams and programs must be able to deliver quality, working software and business value on a regular basis.
+Leadership
+
+SAFe requires lean-agile leadership behavior because only leaders can change the system and create the environment necessary to embrace all of the core values.
+SAFe Principles
+
+The Scaled Agile Frameworks principles are meant to improve the company as a whole by inspiring lean-agile decision making across functional and organizational boundaries. The principles are intended to influence the decisions of not just leaders and managers, but of everyone in the organization and condition their mindset to shift from traditional waterfall thinking to lean-agile thinking, where practices like Lean Portfolio Management are applied.
+Principle #1 Take an economic view
+
+Inspired by the theories on product development flow from Donald Reinertsen's best selling books, achieving the shortest sustainable lead-time requires each individual in the decision-making chain to understand the economic implications of delays. Delivering early and often isnt always enough. According to SAFe, sequencing jobs for maximum benefit, understanding economic trade-offs, and operating within lean budgets are all responsibilities that need to be shared throughout the organization. Many of the concepts and tools are drawn from Reinertsens theories on product development flow.
+Principle #2 Apply systems thinking
+
+SAFe encourages people using the framework to apply systems thinking to three key areas: the solution itself, the enterprise building the system, and the value streams. Solutions can refer to products, services, or systems delivered to the Customer, whether they are internal or external to the Enterprise.
+
+Large solutions have many interconnected component parts, so team members should have a higher-level perspective on how their part fits into the bigger picture. When thinking about the enterprise building the system, people following SAFe should consider the organizations people, management, and processes. So, if an organization is looking to optimize the way people work, it may need to eliminate silos, become cross-functional, and form new working agreements with suppliers and customers. Finally, the enterprise should clearly define how value flows from concept to cash in the solution development value streams. Leaders and management need to maximize the flow of value across functional and organizational boundaries.
+Principle #3 Assume variability; preserve options
+
+By default, designing systems and software is an uncertain exercise. This principle addresses uncertainty by bringing in the concept of set-based design, which calls for retaining multiple requirements and design options for a longer period in the development cycle. The set-based design also relies on empirical data to narrow the focus on the final design option further in the process. 
+
+Set-based design helps inform decision-making during times of uncertainty by identifying the options and intended outcomes, much like a strategic bet. The concept of integrating learning milestones, which refers to a deadline for a decision, is instrumental to set-based design. The more teams learn over time, the more choices they can eliminate. The more choices they eliminate, the easier it is to identify the best path forward and produce the best possible outcome for customers.
+Principle #4 Build incrementally with fast, integrated learning cycles
+
+Similar to Principle #3, this principle addresses risk and uncertainty through learning milestones. It is not enough for each component part of the system to prove functional, the whole system must be considered to assess the feasibility of the current design choices. Integration points must be planned on a regular cadence to accelerate faster learning cycles. These integration points are an example of Walter A Shewharts plan-do-check-adjust cycle, a framework for continuous quality improvement and mechanism for controlling the variability of development. Shewart's work and the work he inspired are often within SAFe.
+Principle #5 Base milestones on objective evaluation of working systems
+
+Demonstration of an actual working system provides a better basis for decision making than a requirements document or some other superficial evaluation of success. Including stakeholders in those feasibility decisions early on supports trust-building and systems thinking.
+Principle #6 Visualize and limit Work in Process (WIP), reduce batch sizes, and manage queue lengths
+
+Limiting work in process helps  stakeholders see exactly how work is playing out.
+
+The three elements of this principle represent the primary ways for maximizing throughput and accelerating value delivery - or in other words, implementing flow. As the saying goes "How do you eat an elephant? One bite at a time." 
+
+When you apply this to software development, this means limiting the amount of overlapping work , the complexity of each item of work, and the total amount of work tackled at a given time.  Small batch sizes allow for constant validation that work is headed in the right direction. And managing queue lengths ... 
+
+This principle seeks to offer guidance on optimizing for this for the best results.
+Principle #7 Apply cadence, synchronize with cross-domain planning
+
+Agile teams naturally apply cadence through sprints or iterations. Creating a cadence for all possible matters reduces complexity, addresses uncertainty, builds muscle memory, enforces quality, and instills collaboration. Synchronizing these cadences enables the people and the activities to move like cogs in the wheel where learned information informs decisions and incremental planning.
+Principle #8 Unlock the intrinsic motivation of knowledge workers
+
+Inspired by influential management consultant Peter Drucker and author Daniel Pink, this principle is one of our favorites! It's about unleashing the potential of teams and helping leadership take the perspective of coaching and serving their teams over a command-and-control mindset.
+Principle #9 Decentralize decision making
+
+Reducing queue lengths and taking an economic approach by decentralizing decision making, gives teams the autonomy they need to get work done. Leaders should preserve their decision-making authority for topics of strategic importance and enable teams to make informed choices on everything else.
+How does SAFe Work?
+
+Organizations that are ready to implement SAFe usually have executive-level sponsorship,a strong purpose for change, and a foundation in Scrum.
+
+Scaled Agile, Inc. provides a SAFe implementation roadmap that contains detailed steps on how to get started and set up the organization for widespread adoption across portfolios. The 12 steps for implementing SAFe include:
+
+    Reaching the tipping point
+    Train lean-agile change agents
+    Train executives, managers, and leaders
+    Create a lean-agile center of excellence
+    Identify value streams and ARTs (Agile Release Trains)
+    Create the implementation plan
+    Prepare for ART launch
+    Train teams and launch the ART
+    Coach the ART execution
+    Launch more ARTs and value streams
+    Extend to the portfolio
+    Sustain and improve
+
+How does SAFe compare to other scaled agile frameworks?
+
+Although Scaled Agile Framework (SAFe) is widely adopted across enterprises with large software development teams, other scaled agile frameworks have gained traction over time. All frameworks for scaling agile share five main components: inspiration from the 12 Agile Manifesto principles, cadence, synchronization, Scrum, and quality development practices. Understanding other frameworks origins, core differences, and the conditions for their successful application can help organizations choose which framework best suits their needs.
+
+Want more background on some of the top scaled agile frameworks? Check out the Agile at scale overview page on the Agile Coach.
+SAFe vs. Scrum@Scale
+
+In Scrum@Scale (S@S), everyone is part of an interchangeable Scrum team. Depending on their goals, networks of Scrum teams come together to form an ecosystem. The purpose of S@S is to create a network of Scrum teams through a scale-free architecture,' meaning, basic Scrum roles and events are linearly scaled without introducing new process dynamics. For example, one Scrum of Scrum (SoS) may not be enough for a very complex product with 25 Scrum teams, so a Scrum of Scrum of Scrums (SoSoS) with a Scrum of Scrum of Scrums Master (SoSM) may be needed.
+
+Although S@S is generally less prescriptive, it does offer one guiding question to help organizations determine whether theyre ready to scale: If you add more people to the system does performance increase exponentially or does productivity suffer?
+
+Similarly to SAFe, S@S does offer reference content online including an extensive Scrum@Scale guide which is increasing in popularity.
+
+S@S is most successful when
+
+    The technology stack is object-oriented (i.e. vertical user stories can actually be delivered in two weeks)
+    An organizations feature teams have T-shaped skills, product-centric values, and minimum bureaucracy
+    An agile or Agile Lifecycle Management (ALM) tool is not required until practices are second nature
+    The executive team is willing to practice scrum and remove impediments for the organization
+
+SAFe vs. Large-Scale Scrum (LeSS)
+
+Large-Scale Scrum (LeSS) takes a minimalist approach to roles, structure, and artifacts. Where SAFe offers four configurations to accommodate teams of greater and greater size and with increasingly complex solutions, LeSS offers two configurations: LeSS for two to eight teams and LeSS Huge for more than eight teams. LeSS also differs in its stance that product owners should have complete content authority and strategic influence, where SAFe encourages a more democratic approach. And while in SAFe many factors inform strategy, LeSS places an emphasis on a customer-centric approach focused on paying customers. 
+
+Similar to S@S, LeSS scales from Scrum events, artifacts, and roles. And both SAFe and LeSS emphasize systems thinking, lean thinking, and similar guiding principles. LeSS, however, places a heavy focus on waste reduction across the organization, with the goal of continuous improvement.
+
+LeSS is most successful when
+
+    Scrum teams have mastered Scrum
+    Leadership is willing to continuously restructure and experiment for the greater good
+    There is alignment on the definition of the product
+    There is alignment on the definition of done
+    External coaches are working with organizational, team, and technical groups
+    There are feature teams versus component teams with T-shaped skills
+    The organization is willing to get rid of project management paradigm completely
+
+SAFe vs. DA
+
+Unlike the rest of the frameworks described, Disciplined Agile (DA) is a toolkit that enables organizations to decide what way of working makes the most sense to fit them. It offers lightweight agile governance which is rooted in Scrum and Kanban, along with transformation knowledge in areas like HR and finance, governance, DevOps, portfolio management, and more. DA involves situationally employing different levels of scale for each project and places an emphasis on decision-making enablement to help guide strategic direction.
+
+DA is most successful when
+
+    Organizations want to define their own scaled agile path(s)
+    Organizations want to remain flexible across the enterprise
+    Organizations want to preserve process and/or framework choices
+
+SAFe vs Spotify
+
+The Spotify model is a people-driven, autonomous set of practices that can be applied for coordinating agile teams. It was never intended to be a model or framework, but some businesses have adopted it as such. Spotify places an emphasis on self-organizing, cross-functional, and co-located teams called "squads" (the equivalent of a scrum team). Comparatively, SAFe has no such stipulation on the co-location of teams, for PI planning it is encouraged.
+
+Squads are organized into larger units called "tribes". Dependencies between squads are few and handled through Scrum of Scrums when they occur. Knowledge sharing is enabled through "chapters" and "guilds," informal groups organized based on skill sets and interests.
+
+Compared to other examples, where online resources, training courses, and certifications are available, resources on the Spotify model are limited to a publicly available blog and other companions pieces developed by its pioneers and fans. The model is growing in popularity, so its likely well see more on this in the future. 
+
+Spotify is most successful when
+
+    Applying the ideas in your own business context
+    The organizational culture  focuses on learning, allowing for mistakes, and taking controlled risks
+    Teams and products are loosely coupled, closely aligned to avoid dependency conflicts
+
+SAFe 5.0
+
+A central tenet of SAFe is that it continues to evolve in collaboration with its community of practitioners around the world. Most recently, Scaled Agile, Inc. launched the 5.0 version of SAFe. Key changes included the addition of a 10th principle, "Organize around value," and  changing Step 12 from Sustain and improve to Accelerate. But theres much more involved. Curious to learn more?
